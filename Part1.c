@@ -4,9 +4,9 @@ int main() {
     
 	//หาค.สูงพ่อแม่
 	float Mh,Fh;
-    printf("Enter the height of the mother (centimeters): \n");
+    printf("Enter the height of the mother (centimeters):");
     scanf("%f",&Mh);
-    printf("Enter the height of the father (centimeters): \n");
+    printf("Enter the height of the father (centimeters):");
     scanf("%f",&Fh);
   
     //คำนวณmaxminจากavg
